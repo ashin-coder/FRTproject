@@ -1,12 +1,12 @@
 Project Name- Corona Help Bot
 
-About Project:
+About Project (Description):
 
 This project is website based web chat bot where users can ask questions related to COVID-19.the chat service provides information regarding covid to users when asked and almost delivers accurate response most of the time.
 i have developed this project using Microsoft Azure Bot Service,Azure QnA Maker,Cognitive Services and hosted this website on Azure using Azure Storage Accounts feature.i have used all the required azure services using Azure Portal
 Website.
 
-Technology Used in Project:
+Technology Used in Project(Explanation):
 
 This project is developed using HTML,CSS on the website part and for providing service i have used  Microsoft Azure Bot Service,Azure QnA Maker,Cognitive Services and hosted this website on Azure using Azure Storage Accounts.here i have connected the web bot to my website  for it to be visible in my website .I have used Azure Portal inorder to access the AZURE services and for deployment of web bot service . Created data for chatbot to use for providing information to user using knowledge base and created Questions and Answers using QnA maker for chat bot in which i have also manually entered few questions and prompts for chat bot answer or respond ,so that the chat service feel more like interaction with human and provide user information much easily also cognitive service is used in chatbot which provides much friendly   and accurate experience to the user for information .
 

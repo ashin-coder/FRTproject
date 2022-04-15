@@ -36,6 +36,10 @@ AZURE RESOURCE GROUP:
 PROJECT RESULT:
 OUTPUT: CORONA HELP BOT WEBSITE BEING HOSTED ON AZURE 
 ![websiteimage](https://user-images.githubusercontent.com/73836674/163588130-bf7eeacb-edc6-455e-832b-49e069cc0bf8.png)
+![websiteimage2](https://user-images.githubusercontent.com/73836674/163601612-63933263-7db2-4fcf-a964-d4ba7f1971e3.png)
+![websiteimage3](https://user-images.githubusercontent.com/73836674/163601632-b13f3306-4dce-4ab8-a117-a136e301e010.png)
+![websiteimage4](https://user-images.githubusercontent.com/73836674/163601640-bd6ee0c9-33dd-439b-a26f-a199a70ac8e9.png)
+
 
 LINK TO THE CORONA HELP BOT WEBSITE:
 https://covidhelpbot.z13.web.core.windows.net/

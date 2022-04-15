@@ -8,7 +8,9 @@ Website.
 
 Technology Used in Project:
 
-this project is developed using html,css on the website part for providing service i have used  Microsoft Azure Bot Service,Azure QnA Maker,Cognitive Services and hosted this website on Azure using Azure Storage Accounts
+this project is developed using html,css on the website part and for providing service i have used  Microsoft Azure Bot Service,Azure QnA Maker,Cognitive Services and hosted this website on Azure using Azure Storage Accounts
+
+
 HTML AND CSS :
 
 ![HTML](https://user-images.githubusercontent.com/73836674/163587614-42a87299-ff8a-4fc6-b07b-60ecd9409f49.png)

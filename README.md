@@ -8,7 +8,8 @@ Website.
 
 Technology Used in Project:
 
-This project is developed using HTML,CSS on the website part and for providing service i have used  Microsoft Azure Bot Service,Azure QnA Maker,Cognitive Services and hosted this website on Azure using Azure Storage Accounts.here i have connected the web bot to my website  for it to be visible in my website .I have used Azure Portal inorder to access the AZURE services and for deployment of web bot service , creating data for chatbot to use for providing information to user i have created my knowledge base and created Questions and Ansers using QnA maker for chat bot i which i have also manually entered few questions and prompts so the chats service more human like interaction and provide user information much easily and congnitive service used in chatbot provides much friendly experience to the user .
+This project is developed using HTML,CSS on the website part and for providing service i have used  Microsoft Azure Bot Service,Azure QnA Maker,Cognitive Services and hosted this website on Azure using Azure Storage Accounts.here i have connected the web bot to my website  for it to be visible in my website .I have used Azure Portal inorder to access the AZURE services and for deployment of web bot service . Created data for chatbot to use for providing information to user using knowledge base and created Questions and Answers using QnA maker for chat bot in which i have also manually entered few questions and prompts for chat bot answer or respond ,so that the chat service feel more like interaction with human and provide user information much easily also cognitive service is used in chatbot which provides much friendly   and accurate experience to the user for information .
+NOTE:for using AZURE SERVICES I HAVE USED AZURE PORTAL WEBSITE FOR SETTING UP THE SERVICES USED HERE
 
 
 HTML AND CSS :

@@ -20,9 +20,11 @@ HTML AND CSS :
 AZURE SERVICES USED:
 
 AZURE KNOWLEDGE BASE:
-![qna1](https://user-images.githubusercontent.com/73836674/163587785-fffcb756-5db5-4e6a-9c12-bd64362ffa18.png)
+![azureknowledgebase](https://user-images.githubusercontent.com/73836674/163589963-84f6a707-c868-4166-94f7-7e2122bf5f67.png)
+
+
 AZURE QnA Maker:
-![qna2](https://user-images.githubusercontent.com/73836674/163587832-90011acf-62fa-434f-a53f-6a4323cb2c64.png)
+![qna1](https://user-images.githubusercontent.com/73836674/163587785-fffcb756-5db5-4e6a-9c12-bd64362ffa18.png)
 AZURE STORAGE (HOSTED WEBSITE):
 ![websitehosting](https://user-images.githubusercontent.com/73836674/163587903-429e6bc1-f603-4b27-ac73-3bdece193a14.png)
 AZURE RESOURCE GROUP:
